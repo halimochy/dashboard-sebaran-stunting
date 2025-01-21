@@ -46,7 +46,7 @@ style_metric_cards(
 )
 
 # Load dataset utama
-file_path = "C:/Users/Asus/OneDrive/Kuliah/SKRIPSI/Model/sebaranstunting.csv"
+file_path = "data/sebaranstunting.csv"
 df = pd.read_csv(file_path)
 
 # Sidebar untuk filter (bisa dibiarkan sebagai sidebar minimal)
