@@ -1,5 +1,8 @@
 streamlit
-streamlit_folium
-streamlit_extras
+streamlit-folium
+streamlit-extras
 pandas
 folium
+plotly
+branca
+jinja2
